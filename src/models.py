@@ -7,5 +7,4 @@ class Article:
     url: str
     content: str
     source: str
-    category: str
     published_at: str
